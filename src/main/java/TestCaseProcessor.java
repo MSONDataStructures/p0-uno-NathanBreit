@@ -3,7 +3,7 @@ import java.util.*;
 
 public class TestCaseProcessor
 {
-    public static String player = "Dumb";
+    public static String player = "MyPlayer";
     public String classname = player + "_UnoPlayer";
     public String filename = "lib/testCases.txt";
 
